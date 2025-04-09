@@ -1,11 +1,12 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=Hello!&fontAlign=80&fontAlignY=40&descAlignY=51&descAlign=62&color=gradient)
 
 
 - 👋 Hi, I’m @JaeJaehyeon
 - 👀 I’m learned in M.S [Human body motion based on ML/DL]
 - 🌱 I’m interested in [Object Dection, LLM, and Reinforcement Learning also]
 - 📫 How to reach me "wogus5360@gmail.com"
-- [M.S.] Virtual Environment Lab (The Graduation school of Advanced Imaging Science, Multimedia & Film, Chung-Ang University) (~2025)
+- [M.S.] Virtual Environment Lab (The Graduation school of
+  <br/>Advanced Imaging Science, Multimedia & Film, Chung-Ang University) (~2025)
 
 <div align=center><h1>📚 STACKS</h1></div>
 
